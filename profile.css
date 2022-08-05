@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(20, 20, 20);
+  color: white;
+}
+
+.netflix-navbar {
+  padding-top: 20px;
+}
+
+.navbar-brand img {
+  width: 100px;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
